@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'Hello from Sinatra, Cena!'
+  'Goodbye from Sinatra and Heroku, Cena!'
 end
